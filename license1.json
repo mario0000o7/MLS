@@ -1,0 +1,1 @@
+{"payload":[{"Licence":2,"IPadresses":["10.0.0.0\/24","192.168.1.0\/24","127.0.0.1\/24"],"LicenceUserName":"Radek","ValidationTime":10000},{"Licence":1,"IPadresses":["192.168.1.0\/24"],"LicenceUserName":"Guest","ValidationTime":120},{"Licence":0,"IPadresses":["any"],"LicenceUserName":"Admin","ValidationTime":0}]}
